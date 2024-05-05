@@ -1,0 +1,21 @@
+!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>くじ引き</title>
+</head>
+<body>
+  <div class="contact-form">
+    　<h1 class="contact-title">くじ引き</h1>
+    　<p>お名前</p>
+    　<input placeholder="例: 山田花子">
+    　<input class="contact-submit" type="submit" value="送信">
+    <a>/Users/probi-ba/Downloads/monopasuJS 2/script.js</a>
+    </div>
+    
+  <script src="script.js"></script>
+</body>
+</html>
